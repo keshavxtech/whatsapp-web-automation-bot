@@ -1,2 +1,2 @@
 # whatsapp-web-automation-bot
-A Python-based WhatsApp Web automation bot using PyAutoGUI.
+Automated WhatsApp Web bot built using Python and PyAutoGUI for message reading and auto-reply.
